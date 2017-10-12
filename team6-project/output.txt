@@ -1,0 +1,74 @@
+Abandoned Vehicle{vin='2WWLW24ILYG687969', streetName='KAIOHEE ST', vehicleMake=toyota, reportedDate=3/7/2017}
+Abandoned Vehicle{vin='5CUOM26YGRJ654137', streetName='HAILI RD', vehicleMake=toyota, reportedDate=7/8/2017}
+Abandoned Vehicle{vin='3XTEW93RSQV91110', streetName='UPAI PL', vehicleMake=toyota, reportedDate=3/25/2013}
+Abandoned Vehicle{vin='1GNUF3JZEY406808', streetName='8TH AVE', vehicleMake=toyota, reportedDate=9/1/2012}
+Abandoned Vehicle{vin='5WKXO51TCUH533948', streetName='HIO PL', vehicleMake=toyota, reportedDate=5/23/2013}
+Abandoned Vehicle{vin='4AOKG92EICT704904', streetName='AIALII ST', vehicleMake=toyota, reportedDate=2/5/2012}
+Abandoned Vehicle{vin='4DBMO29BPPV747252', streetName='ANAPUNI ST', vehicleMake=toyota, reportedDate=4/3/2013}
+Abandoned Vehicle{vin='1JREM78AUOQ796138', streetName='AHAOLELO RD', vehicleMake=toyota, reportedDate=2/4/2011}
+Abandoned Vehicle{vin='4UYFQ54BNPZ856371', streetName='9TH AVE', vehicleMake=toyota, reportedDate=4/17/2011}
+Abandoned Vehicle{vin='3WZLU93CFJH913289', streetName='KINAU ST', vehicleMake=toyota, reportedDate=3/30/2016}
+Abandoned Vehicle{vin='1KUKB95DAEJ705959', streetName='AIALII ST', vehicleMake=toyota, reportedDate=8/31/2017}
+Abandoned Vehicle{vin='5KFMG16PGNH891939', streetName='PAPALI ST', vehicleMake=toyota, reportedDate=7/19/2014}
+Abandoned Vehicle{vin='1CVES20CDGJ659350', streetName='LUMIHOAHU ST', vehicleMake=toyota, reportedDate=2/22/2012}
+Abandoned Vehicle{vin='4STUW88OJYJ514183', streetName='PIIKOI ST', vehicleMake=toyota, reportedDate=2/1/2014}
+Abandoned Vehicle{vin='1XRYO48LLPI903423', streetName='HIAHIA LP', vehicleMake=toyota, reportedDate=5/28/2016}
+Abandoned Vehicle{vin='1ZSAT1YOVU495935', streetName='WAILAWA ST', vehicleMake=toyota, reportedDate=10/13/2013}
+Abandoned Vehicle{vin='5LYBZ75GUQW689222', streetName='LEONUI ST', vehicleMake=toyota, reportedDate=6/2/2015}
+Abandoned Vehicle{vin='5DAHB51KXWA504623', streetName='AHAOLELO RD', vehicleMake=toyota, reportedDate=4/12/2017}
+Abandoned Vehicle{vin='3BOSQ51LOMX279763', streetName='PUHULI ST', vehicleMake=toyota, reportedDate=11/23/2014}
+Abandoned Vehicle{vin='5JUUP93PLLJ476391', streetName='ALAU ST', vehicleMake=toyota, reportedDate=3/1/2011}
+Abandoned Vehicle{vin='2ZOFW51RDHI8576', streetName='FRICKE ST', vehicleMake=toyota, reportedDate=3/30/2011}
+Abandoned Vehicle{vin='5MTIL14XYVC816136', streetName='OPOI ST', vehicleMake=toyota, reportedDate=12/13/2017}
+Abandoned Vehicle{vin='5FORL66MNAS272525', streetName='KAHUAHALE ST', vehicleMake=toyota, reportedDate=6/29/2011}
+Abandoned Vehicle{vin='1QQUI48DPXH649566', streetName='KAIOO DR', vehicleMake=toyota, reportedDate=5/1/2012}
+Abandoned Vehicle{vin='1WXOY53MKRS335345', streetName='CASTLE ST', vehicleMake=toyota, reportedDate=8/26/2014}
+Abandoned Vehicle{vin='2LVJR48UBQG245780', streetName='YACHT CLUB ST', vehicleMake=toyota, reportedDate=8/15/2016}
+Abandoned Vehicle{vin='4SGYO68MONQ285662', streetName='UPPER ST', vehicleMake=toyota, reportedDate=7/12/2013}
+Abandoned Vehicle{vin='5TAED36WTJI358789', streetName='LILIPUNA RD', vehicleMake=toyota, reportedDate=8/23/2016}
+Abandoned Vehicle{vin='1TBFT68TNPU936891', streetName='LOHIEHU PL', vehicleMake=toyota, reportedDate=6/28/2012}
+Abandoned Vehicle{vin='5TVLY35KCPJ585204', streetName='HALEAKALA AVE', vehicleMake=toyota, reportedDate=8/29/2016}
+Abandoned Vehicle{vin='5XHDE18VGMN245452', streetName='HALOA DR', vehicleMake=toyota, reportedDate=2/20/2012}
+Abandoned Vehicle{vin='5BBAP95MSLB301102', streetName='KEALIIAHONUI ST', vehicleMake=toyota, reportedDate=11/26/2014}
+Abandoned Vehicle{vin='3PBBV91FSYI692155', streetName='UILA ST', vehicleMake=toyota, reportedDate=10/31/2012}
+Abandoned Vehicle{vin='2DBTS59BYOF50586', streetName='LUSITANA ST', vehicleMake=toyota, reportedDate=10/5/2012}
+Abandoned Vehicle{vin='4JLKG31MXOL582289', streetName='COOLIDGE ST', vehicleMake=toyota, reportedDate=7/4/2013}
+Abandoned Vehicle{vin='2OPIF47JPGP317190', streetName='OLD PALI PL', vehicleMake=toyota, reportedDate=11/21/2013}
+Abandoned Vehicle{vin='1MYJF57FGAC338157', streetName='PEPEEKEO ST', vehicleMake=toyota, reportedDate=8/8/2011}
+Abandoned Vehicle{vin='1GQCI87KMGR519579', streetName='KANEOHE BAY DR', vehicleMake=toyota, reportedDate=6/17/2012}
+Abandoned Vehicle{vin='3GOBM40OEIE403470', streetName='HERBERT ST', vehicleMake=toyota, reportedDate=3/20/2012}
+Abandoned Vehicle{vin='5XLXX67ZRGL433630', streetName='FERN ST', vehicleMake=toyota, reportedDate=6/13/2016}
+Abandoned Vehicle{vin='3KUTO26WKDI549207', streetName='KEANU ST', vehicleMake=toyota, reportedDate=7/28/2014}
+Abandoned Vehicle{vin='4UMRY17FRCJ897508', streetName='ANAPUNI ST', vehicleMake=toyota, reportedDate=2/14/2016}
+Abandoned Vehicle{vin='5RYNS93NPIT554426', streetName='KUNAWAI LN', vehicleMake=toyota, reportedDate=2/6/2013}
+Abandoned Vehicle{vin='2ETCJ97JYEC214437', streetName='SERENO ST', vehicleMake=toyota, reportedDate=3/18/2014}
+Abandoned Vehicle{vin='4GFJT20SAMU38316', streetName='ALA KAPUA', vehicleMake=toyota, reportedDate=1/15/2013}
+Abandoned Vehicle{vin='2KRKI33NOIY847744', streetName='ROBELLO LN', vehicleMake=toyota, reportedDate=7/16/2011}
+Abandoned Vehicle{vin='1QUDC73OAZL786551', streetName='KOKOKAHI PL', vehicleMake=toyota, reportedDate=12/18/2014}
+Abandoned Vehicle{vin='1JYNW68PMTC381403', streetName='KINAU ST', vehicleMake=toyota, reportedDate=7/1/2015}
+Abandoned Vehicle{vin='4JFFL94HOPD313028', streetName='KEAKA DR', vehicleMake=toyota, reportedDate=6/20/2016}
+Abandoned Vehicle{vin='1PXEL69XULM443613', streetName='KAMANI ST', vehicleMake=toyota, reportedDate=1/14/2012}
+Abandoned Vehicle{vin='4CYHE64CYDN751212', streetName='KEALIIAHONUI ST', vehicleMake=toyota, reportedDate=2/12/2014}
+Abandoned Vehicle{vin='5QPIL77TJHT338853', streetName='FRANK ST', vehicleMake=toyota, reportedDate=2/15/2014}
+Abandoned Vehicle{vin='4MCBI95OOHA61747', streetName='PILIMAI ST', vehicleMake=toyota, reportedDate=2/21/2015}
+Abandoned Vehicle{vin='3UIJG10JYJE570230', streetName='PROSPECT ST', vehicleMake=toyota, reportedDate=5/21/2015}
+Abandoned Vehicle{vin='3FGSH32PRCP437889', streetName='PILI PL', vehicleMake=toyota, reportedDate=8/6/2017}
+Abandoned Vehicle{vin='2EKYG93OCCX463131', streetName='NORTH RD', vehicleMake=toyota, reportedDate=6/26/2012}
+Abandoned Vehicle{vin='5OPTK12BZVO690267', streetName='LALANI ST', vehicleMake=toyota, reportedDate=7/25/2016}
+Abandoned Vehicle{vin='4SZTF43AHNB783110', streetName='MOKILA ST', vehicleMake=toyota, reportedDate=5/29/2017}
+Abandoned Vehicle{vin='3PFCU4JXUA954733', streetName='PUAINAKO ST', vehicleMake=toyota, reportedDate=6/22/2011}
+Abandoned Vehicle{vin='4SEWR18TZZH395346', streetName='KAHUHIPA ST', vehicleMake=toyota, reportedDate=3/6/2017}
+Abandoned Vehicle{vin='4HLHV72WNUB406235', streetName='HOAWA ST', vehicleMake=toyota, reportedDate=7/7/2012}
+Abandoned Vehicle{vin='4KKEB42JGVC162374', streetName='PUU PANINI AVE', vehicleMake=toyota, reportedDate=11/12/2016}
+Abandoned Vehicle{vin='1NQSM82VRUT826584', streetName='KUALII ST', vehicleMake=toyota, reportedDate=5/9/2014}
+Abandoned Vehicle{vin='4WVBY31VTFC963523', streetName='AMIO ST', vehicleMake=toyota, reportedDate=12/29/2012}
+Abandoned Vehicle{vin='4GKOP0KLGS768013', streetName='NOLA ST', vehicleMake=toyota, reportedDate=9/11/2014}
+Abandoned Vehicle{vin='4ITLO46ABRG278028', streetName='9TH AVE', vehicleMake=toyota, reportedDate=5/19/2016}
+Abandoned Vehicle{vin='5UEFR37UTAV665033', streetName='KAPEHE ST', vehicleMake=toyota, reportedDate=9/15/2013}
+Abandoned Vehicle{vin='3ZOLB86AQBO58024', streetName='PAKUI ST', vehicleMake=toyota, reportedDate=6/10/2017}
+Abandoned Vehicle{vin='2BXDX33NRJL925802', streetName='LULANI ST', vehicleMake=toyota, reportedDate=2/24/2017}
+Abandoned Vehicle{vin='2GQFV81QBST398588', streetName='LULANI ST', vehicleMake=toyota, reportedDate=11/20/2011}
+Abandoned Vehicle{vin='2XOUB74XDQA868918', streetName='KOPKE ST', vehicleMake=toyota, reportedDate=2/5/2011}
+Abandoned Vehicle{vin='3WXQJ32VNED14908', streetName='NORTH RD', vehicleMake=toyota, reportedDate=2/13/2016}
+Abandoned Vehicle{vin='1ZWKR63GBJD993691', streetName='HAWAII KAI DR', vehicleMake=toyota, reportedDate=4/15/2012}
+Aband
